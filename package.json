@@ -6,9 +6,19 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "publisher": "jikkenio",
+  "author": {
+    "name": "Jikken"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jikkenio/jikken-vscode"
+  },
+  "license": "MIT",
   "categories": [
     "Programming Languages"
   ],
+  "homepage": "https://www.jikken.io/",
   "icon": "./images/favicon.ico",
   "contributes": {
     "languages": [
